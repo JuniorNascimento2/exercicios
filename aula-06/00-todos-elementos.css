@@ -1,0 +1,26 @@
+#txt1{
+	background: grey;
+}
+form #txt2{
+	background: green;
+}
+
+ul li {
+	font-size: 25px
+}
+
+form input[type="text"] {
+	height: 35px
+}
+
+form input[type="password"] {
+	height: 35px
+}
+
+form input[type="number"] {
+	height: 35px
+}
+
+form #txt3{
+	background: blue;
+}
